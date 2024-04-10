@@ -5,7 +5,6 @@
 #include <iomanip>
 #include <vector>
 #include <cmath>
-#include <unistd.h>
 #include "algorithm.hpp"
 
 char mainLoop() {

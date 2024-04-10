@@ -2,8 +2,6 @@
 #include <sstream>
 #include <vector>
 #include <string>
-#include <locale>
-#include <iomanip>
 #include <unistd.h>
 #include "algorithm.hpp"
 #include "ui.hpp"
